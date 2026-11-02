@@ -1,0 +1,23 @@
+# Python 3.11
+# Datos
+numpy==2.4.6
+pandas==3.1.0
+pyarrow==26.0.0
+kagglehub==1.0.3
+
+# Modelado y estadística
+scipy==1.17.1
+scikit-learn==1.9.1
+xgboost==3.2.0
+shap==0.51.0
+
+# Visualización
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# Tests
+pytest==9.2.0
+
+# Notebooks
+jupyterlab==4.6.4
+ipykernel==7.4.0

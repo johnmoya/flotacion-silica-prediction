@@ -1,0 +1,28 @@
+# Datos (se descargan con src/download_data.py)
+data/
+
+# Entorno virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Credenciales
+kaggle.json
+.env
+
+# SO / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Fuentes de la presentación
+presentacion/
